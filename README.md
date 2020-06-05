@@ -69,11 +69,12 @@ pipenv install jedi pynvim pylint isort flake8 yapf
 
 > Move fonts to `~/.local/share`
 > Create `~/.local/share` if it does not exist
-> -Example
+
+-Example
 
 ```sh
 
-  mkdir -p ~/.local/share/
+mkdir -p ~/.local/share/
 
 ```
 
