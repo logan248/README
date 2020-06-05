@@ -1,4 +1,4 @@
-# Nvim 248
+# Nvim 248 for Termux
 
 ## Table of contents
 
@@ -70,7 +70,7 @@ pipenv install jedi pynvim pylint isort flake8 yapf
 > Move fonts to `~/.local/share`
 > Create `~/.local/share` if it does not exist
 
--Example
+- Example
 
 ```sh
 
