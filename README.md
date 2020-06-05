@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Preferences](#Preferences)
-- [Package to install](#Packages)
+- [Packages to install](#Packages)
 
 ## Preferences
 
@@ -11,7 +11,7 @@
 
 ```bash
 
-pkg upgrade
+  pkg upgrade
 
 ```
 
@@ -68,8 +68,14 @@ pipenv install jedi pynvim pylint isort flake8 yapf
 ### Optional ( Nerd fonts Hack )
 
 > Move fonts to `~/.local/share`
-> Create `~/.local/share` if it does not
-> exist Eg. `mkdir -p ~/.local/share/`
+> Create `~/.local/share` if it does not exist
+> -Example
+
+```sh
+
+  mkdir -p ~/.local/share/
+
+```
 
 ### Regenerate you cache and index it
 
