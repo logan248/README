@@ -1,14 +1,21 @@
 # Nvim 248
 
+## Table of contents
+
+- [Preferences](#Preferences)
+- [Package to install](#Packages)
+
 ## Preferences
 
 - Upgrade packages
 
-```sh
+```bash
 
 pkg upgrade
 
 ```
+
+### Packages
 
 - Install these packages
 
@@ -62,7 +69,7 @@ pipenv install jedi pynvim pylint isort flake8 yapf
 
 > Move fonts to `~/.local/share`
 > Create `~/.local/share` if it does not
-> exit Eg. `mkdir -p ~/.local/share/`
+> exist Eg. `mkdir -p ~/.local/share/`
 
 ### Regenerate you cache and index it
 
